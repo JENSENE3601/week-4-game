@@ -1,0 +1,200 @@
+body {
+	
+	background-image: url("https://d3lfwsftijx8i.cloudfront.net/patterns/32832-260lo.jpg");
+}
+
+#instr {
+	width: 600px;
+	height: 260px;
+	position: relative;
+	top:9px;
+	left: 15px;
+	font-size: 17px;
+	line-height: 1.0;
+	padding: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #FFE4C4;
+	color: green;
+	;
+
+}
+
+#randnum {
+	position: relative;
+	top: 30px;
+	left: 15px;
+	width: 110px;
+	height: 0px;
+	border-style: solid;
+	border-width: 3px;
+	font-size: 50px;
+	padding: 36px;
+	background-color: ;
+
+}
+
+#playerscore {
+	position: relative;
+	top: -45px;
+	left: 99px;
+	width: 110px;
+	height: 0px;
+	border-style: solid;
+	border-width: 3px;
+	font-size: 40px;
+	padding: 36px;
+	background-color: cyan;
+}
+
+#losses {
+	position:relative;
+	top: -126px;
+	left: 400px;
+	background-color: #4682B4;
+	width:110px;
+	height:23px;
+	border-style: solid;
+	border-width: 3px;
+	text-align: center;
+}
+
+#wins {
+	position:relative;
+	top:-98px;
+	left:240px;
+	background-color: #4682B4;
+	width:110px;
+	height:23px;
+	border-style: solid;
+	border-width: 3px;
+	text-align: center;
+}
+
+#red {
+	
+	position: relative;
+	top: -9px;
+	left: 5px;
+	margin: 10px;
+	max-width: 50px;
+	max-height: 50px;
+	display: inline-block;
+
+}
+
+#blue {
+	position: relative;
+	top: -21px;
+	left: 5px;
+	border-style: solid;
+	margin: 10px;
+	max-width: 50px;
+	max-height: 50px;
+	display: inline-block;
+
+}
+
+#yellow {
+	position: relative;
+	top: -16px;
+	left: 5px;
+	border-style: solid;
+	margin: 10px;
+	max-width: 50px;
+	max-height: 50px;
+	display: inline-block;
+
+}
+
+#green {
+	position: relative;
+	top: -12px;
+	left: 5px;
+	border-style: solid;
+	margin: 10px;
+	max-width: 50px;
+	max-height: 50px;
+	display: inline-block;
+
+}
+
+.crystals {
+	height: 111px;
+	position: relative;
+	top: -26px;
+	left: 20px;
+
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	position: relative;
+	top: 2px;
+	left: 5px;
+	background-color: chocolate;
+	font-size: 30px;
+	width: 300px;
+	height: 50px;
+	text-align: center;
+	background: rgba(76, 175, 80, 0);
+}
+
+#target {
+	position:relative;
+	top:55px;
+	left:15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: black;
+	font-size: 20px;
+	width: 110px;
+	height: 25px;
+	background: rgba(76, 175, 80, 0);
+}
+
+#announce {
+
+	position:relative;
+	top:-155px;
+	left:15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	width: 110px;
+	height: 25px;
+	text-align: center;
+	background: rgba(76, 175, 80, 0);
+
+}
+
+#randnum {
+	position: relative;
+	top: 55px;
+	left: 15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 33px;
+	width: 110px;
+	height: 15px;
+	text-align: center;
+	background: rgba(76, 175, 80, 0);
+}
+#yourScore {
+	position:relative;
+	top:-20px;
+	left:15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	width: 155px;
+	height: 25px;
+	background: rgba(76, 175, 80, 0);
+}
+
+#playerScore {
+	position: relative;
+	top:-20px;
+	left:15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	width: 155px;
+	height: 25px;
+	text-align: center;
+	background: rgba(76, 175, 80, 0);
+}
